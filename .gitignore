@@ -1,0 +1,4 @@
+*.dll
+*/bin/*
+*/out/*
+*.userprefs
